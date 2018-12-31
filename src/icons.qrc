@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/banner.svg.png</file>
+        <file>image/qv2ray.ico</file>
+        <file>image/qv2ray.png</file>
+    </qresource>
+</RCC>
