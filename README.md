@@ -21,3 +21,7 @@ cd Qv2ray
 qmake ./src
 make -j8
 ```
+
+For questions about how to install Qt:
+
+https://t.me/qv2ray
