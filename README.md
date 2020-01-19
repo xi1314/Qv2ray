@@ -24,4 +24,4 @@ make -j8
 
 For questions about how to install Qt:
 
-https://t.me/qv2ray
+http://shorturl.at/fmJP2?section=how-to-install-qt-on-different-platforms
